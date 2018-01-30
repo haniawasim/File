@@ -1,14 +1,14 @@
-﻿Module Module1
+Module Module1
 Task 1.2
     Sub Main()
         Dim Name As String
         Dim MemberIdNumber As String
 
         Console.Write("Enter name: ")
-name:   Console.ReadLine()
+        name: Console.ReadLine
 
         Console.WriteLine("Enter memberIdnumber: ")
-        MemberIdNumber.Console.Readline()
+        MemberIdNumber: Console.Readline
 
         FileOpen(1, "d:/filePractice/sRec.txt", OpenMode.Append)
 
