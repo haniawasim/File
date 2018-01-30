@@ -16,7 +16,7 @@ Tasl 1.4
 
         WriteLine(1, Name)
         WriteLine(1, MemberIdNumber)
-        WriteLine(1, NewMemberId)
+        
 
         FileClose(1)
     End Sub
