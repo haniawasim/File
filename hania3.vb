@@ -12,7 +12,7 @@ Task 1.3
         FileOpen(1, "d/helloworld/sRec.txt", OpenMode.Input)
 
         While Not EOF(1) And isFound = False
-            Input(1, sName)
+            Input(1, Name)
             Input(1, sMemberId)
 
             If name = searchName Then
